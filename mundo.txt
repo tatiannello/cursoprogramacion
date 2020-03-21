@@ -1,4 +1,4 @@
-hola mundo.
+hola mundo
 <<<<<<< HEAD
 Linea 2.
 Linea 3
